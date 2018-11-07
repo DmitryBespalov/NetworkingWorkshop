@@ -6,5 +6,6 @@
         <page name='Simple URLSession example'/>
         <page name='Loading image asynchronously'/>
         <page name='Handling HTTP Response'/>
+        <page name='Error Handling'/>
     </pages>
 </playground>
